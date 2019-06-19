@@ -1,15 +1,15 @@
 self.__precacheManifest = [
   {
-    "revision": "cffb686d7d2f4682df8342bd4d276e09",
-    "url": "/primeReact/static/media/open-sans-v15-latin-regular.cffb686d.woff2"
+    "revision": "7aab4c13671282c90669eb6a10357e41",
+    "url": "/primeReact/static/media/open-sans-v15-latin-regular.7aab4c13.svg"
   },
   {
-    "revision": "46c373ced0e73d681f95",
+    "revision": "3e775907139c79e6afcc",
     "url": "/primeReact/static/css/main.1363a80a.chunk.css"
   },
   {
-    "revision": "473e2a746d3c151d7dcaa626a7c84c60",
-    "url": "/primeReact/static/media/primeicons.473e2a74.ttf"
+    "revision": "71bb3d79dcf18b45ae845409e7c2ada3",
+    "url": "/primeReact/static/media/primeicons.71bb3d79.woff"
   },
   {
     "revision": "3e88859632c548f8a492",
@@ -24,10 +24,6 @@ self.__precacheManifest = [
     "url": "/primeReact/static/media/open-sans-v15-latin-300.76b56857.eot"
   },
   {
-    "revision": "60c866748ff15f5b347fdba64596b1b1",
-    "url": "/primeReact/static/media/open-sans-v15-latin-300.60c86674.woff2"
-  },
-  {
     "revision": "521d17bc9f3526c690e8ada6eee55bec",
     "url": "/primeReact/static/media/open-sans-v15-latin-300.521d17bc.woff"
   },
@@ -36,8 +32,12 @@ self.__precacheManifest = [
     "url": "/primeReact/static/media/open-sans-v15-latin-300.177cc92d.ttf"
   },
   {
-    "revision": "bf2d0783515b7d75c35bde69e01b3135",
-    "url": "/primeReact/static/media/open-sans-v15-latin-regular.bf2d0783.woff"
+    "revision": "60c866748ff15f5b347fdba64596b1b1",
+    "url": "/primeReact/static/media/open-sans-v15-latin-300.60c86674.woff2"
+  },
+  {
+    "revision": "c045b73d86803686f4cd1cc3f9ceba59",
+    "url": "/primeReact/static/media/open-sans-v15-latin-regular.c045b73d.ttf"
   },
   {
     "revision": "27ef0b062b2e221df16f3bbd97c2dca8",
@@ -48,24 +48,16 @@ self.__precacheManifest = [
     "url": "/primeReact/static/media/open-sans-v15-latin-regular.9dce7f01.eot"
   },
   {
-    "revision": "148a6749baa5f658a45183ddb5ee159f",
-    "url": "/primeReact/static/media/open-sans-v15-latin-700.148a6749.eot"
+    "revision": "cffb686d7d2f4682df8342bd4d276e09",
+    "url": "/primeReact/static/media/open-sans-v15-latin-regular.cffb686d.woff2"
   },
   {
-    "revision": "46c373ced0e73d681f95",
-    "url": "/primeReact/static/js/main.46c373ce.chunk.js"
+    "revision": "3e775907139c79e6afcc",
+    "url": "/primeReact/static/js/main.3e775907.chunk.js"
   },
   {
-    "revision": "623e3205570002af47fc2b88f9335d19",
-    "url": "/primeReact/static/media/open-sans-v15-latin-700.623e3205.woff"
-  },
-  {
-    "revision": "7aab4c13671282c90669eb6a10357e41",
-    "url": "/primeReact/static/media/open-sans-v15-latin-regular.7aab4c13.svg"
-  },
-  {
-    "revision": "c045b73d86803686f4cd1cc3f9ceba59",
-    "url": "/primeReact/static/media/open-sans-v15-latin-regular.c045b73d.ttf"
+    "revision": "bf2d0783515b7d75c35bde69e01b3135",
+    "url": "/primeReact/static/media/open-sans-v15-latin-regular.bf2d0783.woff"
   },
   {
     "revision": "7e08cc656863d52bcb5cd34805ac605b",
@@ -74,6 +66,14 @@ self.__precacheManifest = [
   {
     "revision": "d08c09f2f169f4a6edbcf8b8d1636cb4",
     "url": "/primeReact/static/media/open-sans-v15-latin-700.d08c09f2.woff2"
+  },
+  {
+    "revision": "148a6749baa5f658a45183ddb5ee159f",
+    "url": "/primeReact/static/media/open-sans-v15-latin-700.148a6749.eot"
+  },
+  {
+    "revision": "623e3205570002af47fc2b88f9335d19",
+    "url": "/primeReact/static/media/open-sans-v15-latin-700.623e3205.woff"
   },
   {
     "revision": "2e00b2635b51ba336b4b67a5d0bc03c7",
@@ -88,23 +88,23 @@ self.__precacheManifest = [
     "url": "/primeReact/static/media/line.567f5738.gif"
   },
   {
-    "revision": "b8eccb1059ea5faaf6d8b7d457ccfd09",
-    "url": "/primeReact/static/media/primeicons.b8eccb10.eot"
+    "revision": "473e2a746d3c151d7dcaa626a7c84c60",
+    "url": "/primeReact/static/media/primeicons.473e2a74.ttf"
   },
   {
     "revision": "38d77552b0353684a208177482d5b6ee",
     "url": "/primeReact/static/media/primeicons.38d77552.svg"
   },
   {
-    "revision": "71bb3d79dcf18b45ae845409e7c2ada3",
-    "url": "/primeReact/static/media/primeicons.71bb3d79.woff"
+    "revision": "b8eccb1059ea5faaf6d8b7d457ccfd09",
+    "url": "/primeReact/static/media/primeicons.b8eccb10.eot"
   },
   {
     "revision": "3e88859632c548f8a492",
     "url": "/primeReact/static/css/1.afe897b0.chunk.css"
   },
   {
-    "revision": "4664847e321c78a3cba46702254fd533",
+    "revision": "daa7c156251e5ace7a0f78dacfbe1faa",
     "url": "/primeReact/index.html"
   }
 ];
