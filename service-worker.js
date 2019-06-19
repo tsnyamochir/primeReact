@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/tsnyamochir.primeReact.github.io/precache-manifest.d07cfcb5e7efc852fef2f67b87c4ca63.js"
+  "/primeReact/precache-manifest.0e8e00eb0f20a5e2c3b5758f523e9a7f.js"
 );
 
 workbox.clientsClaim();
@@ -28,7 +28,7 @@ self.__precacheManifest = [].concat(self.__precacheManifest || []);
 workbox.precaching.suppressWarnings();
 workbox.precaching.precacheAndRoute(self.__precacheManifest, {});
 
-workbox.routing.registerNavigationRoute("/tsnyamochir.primeReact.github.io/index.html", {
+workbox.routing.registerNavigationRoute("/primeReact/index.html", {
   
   blacklist: [/^\/_/,/\/[^\/]+\.[^\/]+$/],
 });
